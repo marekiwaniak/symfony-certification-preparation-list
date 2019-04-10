@@ -13,7 +13,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [Symfony License - symfony.com](http://symfony.com/doc/3.0/contributing/code/license.html)
 
 ## Components
-- [Symfony Components - symfony.com](http://symfony.com/components)
+- [Symfony Components - symfony.com](https://symfony.com/doc/3.0/components/index.html)
 
 ## Bundles
 - [The Bundle System - symfony.com](http://symfony.com/doc/3.0/cookbook/bundles/index.html)
