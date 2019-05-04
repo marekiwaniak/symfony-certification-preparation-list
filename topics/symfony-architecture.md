@@ -16,7 +16,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [Symfony Components - symfony.com](https://symfony.com/doc/3.0/components/index.html)
 
 ## Bundles
-- [The Bundle System - symfony.com](http://symfony.com/doc/3.0/cookbook/bundles/index.html)
+- [The Bundle System - symfony.com](https://symfony.com/doc/3.0/bundles.html)
 - [Best Practices for Reusable Bundles - symfony.com](https://symfony.com/doc/3.0/bundles/best_practices.html)
 
 ## Bridges
